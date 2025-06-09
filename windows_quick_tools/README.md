@@ -62,4 +62,4 @@ To customize, modify the values inside the script manually.
 
 ## 🖼️ Menu Screenshot
 
-![Menu Screenshot](screenshot.png)
+![Menu Screenshot](Screenshot.png)
